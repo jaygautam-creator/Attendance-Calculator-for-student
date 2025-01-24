@@ -13,14 +13,15 @@ This C++ program helps students calculate their current and projected attendance
 1. Compile the program:
    ```bash
    g++ attendance_report_calc.cpp -o attendance_calc
-Run the program: 
-./attendance_calc
-Follow the prompts to enter:
-Total classes conducted
-Total classes attended
-Remaining classes
-Required attendance percentage
-Number of classes you plan to miss
+2. Run the program: 
+      ./attendance_calc
+3. Follow the prompts to enter:
+   Total classes conducted
+   Total classes attended
+   Remaining classes
+   Required attendance percentage
+   Number of classes you plan to miss
+
 Example
 
 Input:
